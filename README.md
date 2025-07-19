@@ -26,3 +26,4 @@ A simple contact manager. Add, view, search, update, and delete contact informat
 2. Go to any task folder (for example: Task1_TODO List App).
 3. Run the Python file:
       python main.py
+      
