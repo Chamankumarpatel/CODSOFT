@@ -24,4 +24,3 @@ You can manage your daily tasks: add, view, mark as complete, and delete—right
 #### Requirements
 
 - Python 3.x (no extra libraries needed)
-
