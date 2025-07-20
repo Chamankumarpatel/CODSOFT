@@ -12,9 +12,11 @@ print("=== Password Generator ===")
 
 while True:
     try:
-        length = int(input("Enter password: "))
+        length = int(input("Enter password length: "))
         if length < 6:
             print("Enter a length of at least 6 for strong password.")
+        if length > 32:
+            print("Enter a length of at most 32 for strong password.")    
             continue
         break
     except ValueError:
